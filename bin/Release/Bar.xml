@@ -1,0 +1,138 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Bar
+</name>
+</assembly>
+<members>
+<member name="T:Bar.ScaleBar.ScaleCoor">
+	<summary>
+ 为刻度移动事件提供刻度点数据
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.LLimit">
+	<summary>
+  获取或设置左刻度的限制点
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.RLimit">
+	<summary>
+ 获取或设置右刻度的限制点
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.MoveEvent">
+	<summary>
+ 获取或设置刻度移动事件是否时能
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.MoveEventE">
+	<summary>
+ 获取或设置刻度移动完成事件是否时能
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="E:Bar.ScaleBar.ScaleMove">
+	<summary>
+ 当刻度条移动时发生
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="E:Bar.ScaleBar.ScaleMoveEnd">
+	<summary>
+ 当刻度条移动完成后发生
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.Width">
+	<summary>
+ 获取或设置Bar的宽度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.Height">
+	<summary>
+ 获取或设置Bar的高度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.LX">
+	<summary>
+ 获取或设置L刻度的位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.RX">
+	<summary>
+ 获取或设置R刻度的位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.LWidth">
+	<summary>
+ 获取或设置Bar L刻度线的宽度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.RWidth">
+	<summary>
+ 获取或设置Bar R刻度线的宽度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.LColor">
+	<summary>
+ 获取或设置L线的颜色
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.RColor">
+	<summary>
+ 获取或设置R线的颜色
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.BackColor">
+	<summary>
+ 获取或设置Bar的背景色
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Bar.ScaleBar.ForeColor">
+	<summary>
+ 获取或设置Bar的前景色
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Bar.ScaleBar.#ctor(System.Object,System.Object,System.Object,System.Object,System.Object,System.Object)">
+	<summary>
+	</summary>
+	<param name="width"></param>
+	<param name="heigth"></param>
+	<param name="lx"></param>
+	<param name="lwidth"></param>
+	<param name="rx"></param>
+	<param name="rwidth"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

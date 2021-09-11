@@ -1,0 +1,66 @@
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Debug\滑动条测试.exe
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Debug\滑动条测试.pdb
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Debug\滑动条测试.xml
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Debug\ResolveAssemblyReference.cache
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Debug\WindowsApplication1.Form1.resources
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Debug\WindowsApplication1.Resources.resources
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Debug\滑动条测试.vbproj.GenerateResource.Cache
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Debug\滑动条测试.exe
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Debug\滑动条测试.xml
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Debug\滑动条测试.pdb
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Debug\Bar.dll
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Debug\Bar.pdb
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Debug\Bar.xml
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Debug\Bars.dll
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Debug\Bars.pdb
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Debug\Bars.xml
+E:\Visual Basic\滑动条测试\滑动条测试\bin\Debug\滑动条测试.exe
+E:\Visual Basic\滑动条测试\滑动条测试\bin\Debug\滑动条测试.pdb
+E:\Visual Basic\滑动条测试\滑动条测试\bin\Debug\滑动条测试.xml
+E:\Visual Basic\滑动条测试\滑动条测试\bin\Debug\Bars.dll
+E:\Visual Basic\滑动条测试\滑动条测试\bin\Debug\Bar.pdb
+E:\Visual Basic\滑动条测试\滑动条测试\bin\Debug\Bar.xml
+E:\Visual Basic\滑动条测试\滑动条测试\bin\Debug\Bars.pdb
+E:\Visual Basic\滑动条测试\滑动条测试\bin\Debug\Bars.xml
+E:\Visual Basic\滑动条测试\滑动条测试\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Basic\滑动条测试\滑动条测试\obj\Debug\WindowsApplication1.Form1.resources
+E:\Visual Basic\滑动条测试\滑动条测试\obj\Debug\WindowsApplication1.Resources.resources
+E:\Visual Basic\滑动条测试\滑动条测试\obj\Debug\滑动条测试.vbproj.GenerateResource.Cache
+E:\Visual Basic\滑动条测试\滑动条测试\obj\Debug\滑动条测试.exe
+E:\Visual Basic\滑动条测试\滑动条测试\obj\Debug\滑动条测试.xml
+E:\Visual Basic\滑动条测试\滑动条测试\obj\Debug\滑动条测试.pdb
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Debug\Curve.dll
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Debug\Curve.pdb
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Debug\Curve.xml
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Debug\滑动条测试.exe
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Debug\滑动条测试.xml
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Debug\滑动条测试.pdb
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\bin\Debug\滑动条测试.exe
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\bin\Debug\滑动条测试.pdb
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\bin\Debug\滑动条测试.xml
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Debug\ResolveAssemblyReference.cache
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Debug\WindowsApplication1.Form1.resources
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Debug\WindowsApplication1.Resources.resources
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Debug\滑动条测试.vbproj.GenerateResource.Cache
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\bin\Debug\Curve.dll
+E:\Project\CC2530\TempSensor\pc_sw\obj\Debug\滑动条测试.exe
+E:\Project\CC2530\TempSensor\pc_sw\obj\Debug\滑动条测试.xml
+E:\Project\CC2530\TempSensor\pc_sw\obj\Debug\滑动条测试.pdb
+E:\Project\CC2530\TempSensor\pc_sw\bin\Debug\滑动条测试.exe
+E:\Project\CC2530\TempSensor\pc_sw\bin\Debug\滑动条测试.pdb
+E:\Project\CC2530\TempSensor\pc_sw\bin\Debug\滑动条测试.xml
+E:\Project\CC2530\TempSensor\pc_sw\obj\Debug\滑动条测试.vbprojResolveAssemblyReference.cache
+E:\Project\CC2530\TempSensor\pc_sw\obj\Debug\WindowsApplication1.Form1.resources
+E:\Project\CC2530\TempSensor\pc_sw\obj\Debug\WindowsApplication1.Resources.resources
+E:\Project\CC2530\TempSensor\pc_sw\obj\Debug\滑动条测试.vbproj.GenerateResource.Cache
+C:\TempSensor\pc_sw\bin\Debug\滑动条测试.exe
+C:\TempSensor\pc_sw\bin\Debug\滑动条测试.pdb
+C:\TempSensor\pc_sw\bin\Debug\滑动条测试.xml
+C:\TempSensor\pc_sw\obj\Debug\滑动条测试.vbprojResolveAssemblyReference.cache
+C:\TempSensor\pc_sw\obj\Debug\WindowsApplication1.Form1.resources
+C:\TempSensor\pc_sw\obj\Debug\WindowsApplication1.Resources.resources
+C:\TempSensor\pc_sw\obj\Debug\滑动条测试.vbproj.GenerateResource.Cache
+C:\TempSensor\pc_sw\obj\Debug\滑动条测试.vbproj.CoreCompileInputs.cache
+C:\TempSensor\pc_sw\obj\Debug\滑动条测试.exe
+C:\TempSensor\pc_sw\obj\Debug\滑动条测试.xml
+C:\TempSensor\pc_sw\obj\Debug\滑动条测试.pdb

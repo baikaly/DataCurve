@@ -1,0 +1,44 @@
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Release\滑动条测试.exe
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Release\滑动条测试.pdb
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Release\滑动条测试.xml
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Release\Bar.dll
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Release\Bar.pdb
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Release\Bar.xml
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Release\ResolveAssemblyReference.cache
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Release\WindowsApplication1.Form1.resources
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Release\WindowsApplication1.Resources.resources
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Release\滑动条测试.vbproj.GenerateResource.Cache
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Release\滑动条测试.exe
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Release\滑动条测试.xml
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\obj\Release\滑动条测试.pdb
+E:\Visual Basic\滑动条测试\滑动条测试\obj\Release\滑动条测试.exe
+E:\Visual Basic\滑动条测试\滑动条测试\obj\Release\滑动条测试.xml
+E:\Visual Basic\滑动条测试\滑动条测试\obj\Release\滑动条测试.pdb
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Release\Bars.dll
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Release\Bars.pdb
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Release\Bars.xml
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Release\Curve.dll
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Release\Curve.pdb
+F:\_Design 2009\Project\vb.net\滑动条测试\滑动条测试\bin\Release\Curve.xml
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Release\ResolveAssemblyReference.cache
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Release\WindowsApplication1.Form1.resources
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Release\WindowsApplication1.Resources.resources
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Release\滑动条测试.vbproj.GenerateResource.Cache
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Release\滑动条测试.exe
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Release\滑动条测试.xml
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\obj\Release\滑动条测试.pdb
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\bin\Release\滑动条测试.exe
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\bin\Release\滑动条测试.pdb
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\bin\Release\滑动条测试.xml
+E:\qq\Users\964834937\FileRecv\滑动条测试(1)\滑动条测试\bin\Release\Curve.dll
+C:\TempSensor\pc_sw\obj\Release\滑动条测试.vbprojResolveAssemblyReference.cache
+C:\TempSensor\pc_sw\obj\Release\滑动条测试.vbproj.GenerateResource.Cache
+C:\TempSensor\pc_sw\obj\Release\滑动条测试.vbproj.CoreCompileInputs.cache
+C:\TempSensor\pc_sw\bin\Release\TempSensorDemo.exe
+C:\TempSensor\pc_sw\bin\Release\TempSensorDemo.pdb
+C:\TempSensor\pc_sw\bin\Release\TempSensorDemo.xml
+C:\TempSensor\pc_sw\obj\Release\TempSensorDemo.Form1.resources
+C:\TempSensor\pc_sw\obj\Release\TempSensorDemo.Resources.resources
+C:\TempSensor\pc_sw\obj\Release\TempSensorDemo.exe
+C:\TempSensor\pc_sw\obj\Release\TempSensorDemo.xml
+C:\TempSensor\pc_sw\obj\Release\TempSensorDemo.pdb

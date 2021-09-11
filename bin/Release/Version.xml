@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AutoUpdater>
+  <Updater>
+    <StartingName>RSSIDemo.exe</StartingName>
+    <UpdateUrl>ftp://106.54.128.169/Data/app_upgrade/RSSIDemo/</UpdateUrl>
+    <MainVersion>1.0.0.2</MainVersion>
+    <LastUpdateTime>2019-03-07</LastUpdateTime>
+    <DeleteLocalFile>False</DeleteLocalFile>
+    <UpdateDescription>
+    </UpdateDescription>
+  </Updater>
+  <UpdateFileList>
+    <UpdateFile Version="20090330.085244" Name="back.JPG" />
+    <UpdateFile Version="1.0.0.0" Name="Bar.dll" />
+    <UpdateFile Version="20091126.102950" Name="Bar.pdb" />
+    <UpdateFile Version="20091126.102950" Name="Bar.xml" />
+    <UpdateFile Version="1.0.0.0" Name="Bars.dll" />
+    <UpdateFile Version="20091217.031502" Name="Bars.pdb" />
+    <UpdateFile Version="20091217.031502" Name="Bars.xml" />
+    <UpdateFile Version="1.0.0.0" Name="Curve.dll" />
+    <UpdateFile Version="1.0.0.2" Name="RSSIDemo.exe" />
+    <UpdateFile Version="20190307.053044" Name="SerialLog.log" />
+    <UpdateFile Version="20180906.091249" Name="TempConfig.csv" />
+    <UpdateFile Version="20190307.050018" Name="TempSensorDemo.pdb" />
+    <UpdateFile Version="20180927.104416" Name="TempSensorDemo.rar" />
+    <UpdateFile Version="11.0.50727.1" Name="TempSensorDemo.vshost.exe" />
+    <UpdateFile Version="20160309.014832" Name="TempSensorDemo.vshost.exe.manifest" />
+    <UpdateFile Version="20190307.050018" Name="TempSensorDemo.xml" />
+    <UpdateFile Version="20170113.041128" Name="wifi_72px_1106941_easyicon.net.ico" />
+    <UpdateFile Version="1.0.0.0" Name="Release\Bar.dll" />
+    <UpdateFile Version="1.0.0.0" Name="Release\Curve.dll" />
+    <UpdateFile Version="20180810.042600" Name="Release\DemoRelease.rar" />
+    <UpdateFile Version="20180810.040944" Name="Release\TempConfig.csv" />
+  </UpdateFileList>
+</AutoUpdater>
